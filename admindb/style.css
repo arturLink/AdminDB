@@ -1,0 +1,18 @@
+body{
+    background-color: lightskyblue;
+}
+div#meny{
+    padding: 30px;
+    float:left;
+    background-color: ghostwhite;
+}
+div#sisu{
+    padding: 30px;
+    float:left;
+    margin-left: 3%;
+    border: solid 1px grey;
+    background-color: ghostwhite;
+}
+img{
+    width: 200px;
+}
